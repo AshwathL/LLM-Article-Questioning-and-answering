@@ -41,7 +41,7 @@ This is a simple Streamlit app that allows users to submit article URLs, process
    streamlit run app.py
    ```
 
-
+Alternatively view the live demo here : https://llm-article-questioning-and-answering-skntapymp8wmfbbk75plsm.streamlit.app/
 
 
 
